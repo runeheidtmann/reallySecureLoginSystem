@@ -1,6 +1,6 @@
 # reallySecureLoginSystem
 
-Goal is to make the most secure loginsystem possible, while maintining "okay" user experience.
+Goal is to make the most secure loginsystem possible, while maintining "okay" user experience. This is still work in progress
 
 ## Getting Started
 
